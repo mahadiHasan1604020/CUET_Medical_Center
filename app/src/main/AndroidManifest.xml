@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cuetmecicalcentre">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CUETMecicalCentre">
+        <activity
+            android:name=".staff"
+            android:exported="false" />
+        <activity
+            android:name=".stafffeature"
+            android:exported="false" />
+        <activity
+            android:name=".medicine"
+            android:exported="false" />
+        <activity
+            android:name=".staffmainfeature"
+            android:exported="false" />
+        <activity
+            android:name=".loginstaff"
+            android:exported="false" />
+        <activity
+            android:name=".prescription"
+            android:exported="false" />
+        <activity
+            android:name=".MakePrescription"
+            android:exported="false" />
+        <activity
+            android:name=".checkappointment"
+            android:exported="false" />
+        <activity
+            android:name=".logindoctor"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".CallAmbulance"
+            android:exported="false" />
+        <activity
+            android:name=".telemedicine"
+            android:exported="false" />
+        <activity
+            android:name=".mainfeature"
+            android:exported="false" />
+        <activity
+            android:name=".test"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".Signup"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

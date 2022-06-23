@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_call_ambulance.xml" value="0.1585144927536232" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_checkappointment.xml" value="0.13020833333333334" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_logindoctor.xml" value="0.13020833333333334" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_loginstaff.xml" value="0.13020833333333334" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_main2.xml" value="0.14356884057971014" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_mainfeature.xml" value="0.25" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_make_prescription.xml" value="0.152" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_medicine.xml" value="0.25416666666666665" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_prescription.xml" value="0.2" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_signup.xml" value="0.152" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_staff.xml" value="0.176" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_stafffeature.xml" value="0.13645833333333332" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_staffmainfeature.xml" value="0.176" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_telemedicine.xml" value="0.128" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/activity_test.xml" value="0.25" />
+        <entry key="..\:/CUETMecicalCentre/app/src/main/res/layout/list_item.xml" value="0.13645833333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
